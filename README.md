@@ -74,3 +74,6 @@ Classe para gerenciar a lista de funcionários.
    ```sh
    git clone https://github.com/seu-usuario/projeto_funcionario.git
    cd projeto_funcionario
+
+## Licença
+Esse README oferece uma visão clara e organizada do projeto, explicando a estrutura, as funcionalidades, as classes, e como executar e contribuir para o projeto. Ajuste conforme necessário para refletir detalhes específicos ou adicionais do seu projeto.
